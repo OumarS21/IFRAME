@@ -1,0 +1,36 @@
+.bloc1 {
+
+	border: solid 1px;
+	background-color: orange;
+ 	height: 500px;
+	width: 550px;
+	float: left;
+	margin: 10px;
+}
+
+h2 {border: solid 2px;
+
+}
+.bloc2 {
+
+	border: solid 1px;
+	background-color: orange;
+	height: 500px;
+	width: 550px;
+	float: left;
+	text-align: left;
+	margin: 10px;
+}
+
+h2 {border: solid 2px;
+}
+.bloc3{
+
+	background-color: orange;
+	height: 500px;
+	width: 550px;
+	clear: both;
+	margin: 10px;
+}
+h2 {border: solid 2px;
+}
