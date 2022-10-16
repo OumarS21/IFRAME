@@ -1,0 +1,28 @@
+body
+{
+   background-color:darksalmon; 
+}
+div
+{
+    border: 3px solid darkred;
+    border-radius:50px;
+    padding: 3%;
+
+}
+h1,h2
+{
+    color: black;
+    font-family: verdana;
+    font-size: 2em;
+}
+p
+{
+    color: black;
+    font-family: arial;
+}
+.d1{
+    background-color: hotpink;
+}
+.d2{
+    background-color: yellowgreen;
+}
