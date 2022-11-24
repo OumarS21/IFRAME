@@ -6,6 +6,8 @@ body{
 	background-image: url('akatuski.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
+	bachground-position: center;
+	height: 100vh;
 
 }
 
