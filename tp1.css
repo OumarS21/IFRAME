@@ -1,0 +1,20 @@
+body
+{
+    background-color: gray;
+
+}
+button
+{
+    width: 200px;
+    height: 200px;
+    background-color: peachpuff;
+    border: 2px solid black;
+    border-radius: 26px;
+    color: white;
+    font-size: 2em;
+}
+button:hover
+{
+    background-color: yellowgreen;
+    color: black;
+}
