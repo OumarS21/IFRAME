@@ -1,0 +1,38 @@
+*,::before,::after{
+    box-sizing: border-box;
+}
+body{
+    background-color: orangered;
+}
+button {
+  background-color: red;
+  border: 3px solid black;
+  border-radius: 40px;
+  color: red;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 0 18px;
+  line-height: 150px;
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  width: 700px;
+  margin: 10px;
+}
+
+button:hover {
+    background-color: bisque;
+    transform: translate(2px, 2px);
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px auto;
+    border: 1px solid #f1f1f1;
+}
+
