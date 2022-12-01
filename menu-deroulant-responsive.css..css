@@ -5,8 +5,7 @@ body{
 	overflow: hidden;
 	background-image:  url('luffy.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
-	background-position-y: 98%
+	background-position-y: 50% ;
 	height: 100vh;
 
 }
