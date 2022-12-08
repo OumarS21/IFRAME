@@ -97,7 +97,7 @@ nav li:hover .submenu{
 	background-color: RGBa(241, 211, 79, 0.15)
 }
 
-.menu-SQL:hover{
+.menu-sql:hover{
 	border-top: 5px solid #f1dc4f;
 	background-color: RGBa(241, 211, 79, 0.15)
 }
@@ -119,6 +119,10 @@ nav li:hover .submenu{
 	background-color: RGB(251, 216, 99)
 }
 
+.menu-sql .submenu{
+	background-color: RGB(251, 216, 99)
+}
+
 .submenu li:hover a{
 	color: #EEE;
 	font-weight: bold;
@@ -133,6 +137,10 @@ nav li:hover .submenu{
 }
 
 .menu-js .submenu li:hover{
+	background-color: RGB(200, 165, 75);
+}
+
+.menu-sql .submenu li:hover{
 	background-color: RGB(200, 165, 75);
 }
 
