@@ -1,29 +1,41 @@
-body
-{
-	background-color: pink
+*,::after,::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-h1,h2
-{
-	color: white;
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #0e82a3;
 }
-
-div
-{
-	border: 4px solid;
-	border-radius: 8px;
-	padding-left: 0%;
-	padding-right: 1.5%;
-	text-align: center;
-	margin: 1.5%
-	width: 80%;
+a{
+    color: black;
+    font-size: 30px;
 }
-.d1
-{
-	background-color: yellow;
+a:visited{
+    color: black;
 }
-
-.d2
-{
-	background-color: yellow;
+img{
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.bloc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bloc div{
+    margin: 20px;
+    padding: 100px;
+    background-color: antiquewhite;
+    border: 3px solid #082e38;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+.bloc div:hover{
+    background-color: rgb(232, 212, 185);
+    transform: scale(1.1);
 }
