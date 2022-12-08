@@ -97,6 +97,11 @@ nav li:hover .submenu{
 	background-color: RGBa(241, 211, 79, 0.15)
 }
 
+.menu-SQL:hover{
+	border-top: 5px solid #f1dc4f;
+	background-color: RGBa(241, 211, 79, 0.15)
+}
+
 .menu-contact:hover{
 	border-top: 5px solid #BBB;
 	background-color: RGBa(220, 220, 220, 0.15)
