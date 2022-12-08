@@ -4,15 +4,10 @@
     padding: 0;
 }
 
-div {
-  width: 120px;
-  height: 120px;
-  float: left;
-  margin-right: 10px;
-}
-
-.indication-couleur {
-  background: linear-gradient(blue, 10%, pink);
+body{
+    width: 100px;
+    height: 100px;
+    background-color: cream;
 }
 a{
     color: black;
@@ -22,25 +17,21 @@ a:visited{
     color: black;
 }
 img{
-    width: 200px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     margin: 0 auto;
     border-radius: 20px;
 }
-.bloc{
+.container{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.bloc div{
+.container div{
     margin: 20px;
     padding: 100px;
-    background-color: cream;
+    background-color: orange;
     border: 3px solid #082e38;
     border-radius: 10px;
     transition: 0.2s;
-}
-.bloc div:hover{
-    background-color: rgb(232, 212, 185);
-    transform: scale(1.1);
 }
