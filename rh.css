@@ -1,0 +1,29 @@
+button
+{
+    background-color:rgb(95, 255, 172);
+    border-radius: 50px solid black;
+    width: 80%;
+    height: 2em;
+    color: rgb(255, 0, 0);
+    padding: 50px;
+    margin: 3em;
+
+}
+button:hover
+{
+    background-color:rgba(149, 26, 26, 0.462);
+}
+
+.h1
+{
+    text-align: center;
+}
+
+body
+{
+    background-color:rgb(245, 226, 141);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
