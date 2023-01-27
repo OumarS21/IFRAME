@@ -126,8 +126,7 @@ nav li:hover .submenu{
 	background-color: RGB(251, 216, 99)
 }
 .menu-ppe:hover{
-	border-top: 5px solid #f1dc4f;
-	background-color: RGBa(241, 211, 79, 0.15)
+	background-color: RGB(251, 216, 99)
 }
 .submenu li:hover a{
 	color: #EEE;
@@ -150,8 +149,7 @@ nav li:hover .submenu{
 	background-color: RGB(200, 165, 75);
 }
 .menu-ppe:hover{
-	border-top: 5px solid #f1dc4f;
-	background-color: RGBa(241, 211, 79, 0.15)
+	background-color: RGB(200, 165, 75);
 }
 .menu-mobile{
 	display: none;
